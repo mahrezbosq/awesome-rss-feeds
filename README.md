@@ -187,7 +187,8 @@ hongkongnews.net latest rss headlines | http://feeds.hongkongnews.net/rss/b82693
 Source | Primary Feed Url | All Feeds 
 -------|------------------|---------- 
 Republika Online RSS Feed | https://www.republika.co.id/rss/ |  
-Tribunnews.com | https://www.tribunnews.com/rss |  
+Tribunnews.com | https://www.tribunnews.com/rss | 
+sedotwc-no1.com | https://sedotwc-no1.com/feed/
 Merdeka.com | https://www.merdeka.com/feed/ |  
 Suara.com | https://www.suara.com/rss | https://www.suara.com/feed 
 ### 🇮🇪 Ireland
